@@ -9,7 +9,7 @@
 
 ## 📈 完整實驗結果圖表
 
-![訓練結果綜合圖](training_results.png)
+![訓練結果綜合圖](training_results.jpg)
 *圖1：四種深度學習技術在CIFAR-10上的綜合性能比較*
 
 ## 📊 實驗結果總表
